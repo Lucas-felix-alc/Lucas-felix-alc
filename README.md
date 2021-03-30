@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Lucas-felix-alc/Lucas-felix-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Félix, sou estudante de Análise de Sistemas, tenho focado meus estudos em 
+desenvolvimento e design para Web.
 
-Here are some ideas to get you started:
+Tennho paixão em inovar, e me mantenho sempre atualizado com os estudos.
+Sempre aberto a novos desagios e pronto para mudanças .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Conhecimento 📖
+- 🦴HTML5 - Avançado
+- 👔CSS3 - Intermediário  
+- 💻JavaScript - Básico
+
+*Contate-me
+-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alc%C3%A2ntara-4b5342193/)](https://www.linkedin.com/in/lucas-alc%C3%A2ntara-4b5342193/)
+
