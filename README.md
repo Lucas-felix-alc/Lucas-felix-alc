@@ -4,7 +4,7 @@ Meu nome é Lucas Félix, sou estudante de Análise de Sistemas, tenho focado me
 desenvolvimento e design para Web.
 
 Tennho paixão em inovar, e me mantenho sempre atualizado com os estudos.
-Sempre aberto a novos desagios e pronto para mudanças .
+Sempre aberto a novos desafios e pronto para mudanças!
 
 ####Conhecimento 📖
 - 🦴HTML5 - Avançado
