@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eai, Beleza  ? 👋
 
 Meu nome é Lucas Félix, sou estudante de Análise de Sistemas, tenho focado meus estudos em 
 desenvolvimento e design para Web.
