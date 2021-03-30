@@ -6,7 +6,7 @@ desenvolvimento e design para Web.
 Tennho paixão em inovar, e me mantenho sempre atualizado com os estudos.
 Sempre aberto a novos desafios e pronto para mudanças!
 
-####Conhecimento 📖
+*CONHECIMENTO 📕*
 - 🦴HTML5 - Avançado
 - 👔CSS3 - Intermediário  
 - 💻JavaScript - Básico
