@@ -10,6 +10,7 @@ Sempre aberto a novos desafios e pronto para mudanças!
 - 🦴HTML5 - Avançado
 - 👔CSS3 - Intermediário  
 - 💻JavaScript - Básico
+- 📱AdobeXD - Avançado
 
 *Contate-me
 -[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alc%C3%A2ntara-4b5342193/)](https://www.linkedin.com/in/lucas-alc%C3%A2ntara-4b5342193/)
